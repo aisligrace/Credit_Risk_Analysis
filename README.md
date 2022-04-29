@@ -42,3 +42,6 @@ We created and analyzed six models total:
 ![image](https://github.com/aisligrace/Credit_Risk_Analysis/blob/main/Screen%20Shot%202022-04-29%20at%201.41.05%20PM.png)
 
 ## Summary
+In conclusion, we laid out the accuracy score, the precision, and recall score of each of the six models above. Of all six, the EasyEnsembleClassifier model had the highest accuracy score, so that model would be the best fit for predicting credit risk. However, this model also had an extremely large number of false high risks (16139), where other models performed better. I would personally recommend that the bank does not use any of these six models, but instead, continues to find a better fit. 
+
+##
