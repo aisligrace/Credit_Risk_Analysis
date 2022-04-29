@@ -10,7 +10,7 @@ We created and analyzed six models total:
 ![image](https://github.com/aisligrace/Credit_Risk_Analysis/blob/main/Screen%20Shot%202022-04-29%20at%201.30.29%20PM.png)
 
 * **2) SMOTE model**
-  * **Accuracy Score: 62.3%
+  * **Accuracy Score: 62.3%**
  ![image](https://github.com/aisligrace/Credit_Risk_Analysis/blob/main/Screen%20Shot%202022-04-29%20at%201.30.46%20PM.png)
  
 * **3) ClusterCentroids model**
